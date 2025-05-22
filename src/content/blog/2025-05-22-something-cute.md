@@ -2,10 +2,10 @@
 author: nico
 pubDatetime: 2025-05-22
 modDatetime: 2025-05-22
-title: something cute
+title: ten girlz
 ogImage: it's cute!
 slug: blep
 featured: false
-draft: false
+cover: /10girlz.png
 ---
-uff...
+i never go outside but my heart is filled with people
