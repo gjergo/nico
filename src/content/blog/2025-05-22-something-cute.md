@@ -6,6 +6,7 @@ title: ten girlz
 ogImage: it's cute!
 slug: blep
 featured: false
+description: this is required i guess
 cover: /10girlz.png
 ---
 i never go outside but my heart is filled with people
