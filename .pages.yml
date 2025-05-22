@@ -31,6 +31,17 @@ content:
       - { name: pubDatetime, label: Date, type: date }
       - { name: title, label: Title, type: string, required: true }
       - { name: cover, label: Cover Image, type: image}
+  - name: tattoo
+    label: Tattoo
+    type: collection
+    path: src/content/tattoo
+    view:
+      fields: [ title, draft, date ]
+    fields:
+      - { name: author, label: Author, type: string }
+      - { name: pubDatetime, label: Date, type: date }
+      - { name: title, label: Title, type: string, required: true }
+      - { name: cover, label: Cover Image, type: image}
   - name: about
     label: About page
     type: file
